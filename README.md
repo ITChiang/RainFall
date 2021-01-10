@@ -2,7 +2,7 @@
 [Try Here](https://rainfallreact.herokuapp.com/)
 
 ![image](
-       assets/screenshot.gif
+       src/assets/screenshot.gif
       )
 
 This web page is an interactive graphics design implement by React and Three.js .
